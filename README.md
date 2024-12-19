@@ -22,10 +22,3 @@ The RMS is developed using PHP for server-side scripting, MySQL for database man
 
 This comprehensive system aims to streamline restaurant operations, improve customer service, and enhance overall efficiency within the establishment.
 
-Citations:
-[1] https://easternpeak.com/blog/restaurant-apps-development/
-[2] https://themewinter.com/restaurant-management-features-in-wordpress/
-[3] https://www.focussoftnet.com/blogs/top-essential-restaurant-management-system-features-to-look-for
-[4] https://www.oracle.com/food-beverage/restaurant-pos-systems/restaurant-management-system-features/
-[5] https://www.touchbistro.com/blog/all-in-one-restaurant-management-system/
-[6] https://www.wisk.ai/blog/choosing-the-right-restaurant-management-system-features
